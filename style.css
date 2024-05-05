@@ -1,0 +1,61 @@
+body{
+  background-color: black;
+  
+}
+
+#container{
+  border-radius: 20px;
+  background-color:rgb(31,31,31) ; 
+  width: 400px; 
+  height:auto ;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#container img{
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+
+
+}
+
+h1{
+  font-family: Inter Regular;
+  color: aliceblue;
+  text-align: center;
+}
+
+P{
+
+}
+
+button{
+  display: block;
+  width: 100%;
+  background-color: rgb(51,51,51);
+  border-radius: 10px;
+  border: none;
+  padding: 20px;
+  margin-bottom: 20px;
+
+}
+
+button a{
+  color: aliceblue;
+  text-decoration: none;
+  font-family: inter regular;
+  font-size: 15px;
+  
+}
+h3{
+  color:rgb(208,242,96);
+  text-align: center;
+  font-family: inter regular;
+}
+p{
+  color: aliceblue;
+  text-align: center;
+  font-family: inter regular;
+}
